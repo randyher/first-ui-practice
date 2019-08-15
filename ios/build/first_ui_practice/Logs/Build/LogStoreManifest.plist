@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>7F75C108-27F4-4569-ADB0-C9AAA6596848</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7F75C108-27F4-4569-ADB0-C9AAA6596848.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>first_ui_practice project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>first_ui_practice</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project first_ui_practice with scheme first_ui_practice and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>587572850.45191395</real>
+			<key>timeStoppedRecording</key>
+			<real>587572851.78996396</real>
+			<key>title</key>
+			<string>Building project first_ui_practice with scheme first_ui_practice and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>7F75C108-27F4-4569-ADB0-C9AAA6596848</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
